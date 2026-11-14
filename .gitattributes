@@ -1,0 +1,2 @@
+# Hash-bound files must keep LF endings on every platform (Windows checkouts included).
+* text eol=lf
